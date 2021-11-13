@@ -1,0 +1,9 @@
+Dataset Source
+
+Name : High Severity Traffic Crashes (Performance Measure 1.08)
+
+Link : https://data.world/city-of-tempe/7556b322-1b7d-4f65-87b8-598d11ef50fb/workspace/file?filename=crash-data-1.csv
+
+The dataset consists of 33 columns and 28839 rows in table.
+
+This dataset is used in Traffic Engineering and Transportation to improve safety in Tempe.
